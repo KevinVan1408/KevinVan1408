@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about coding and in the future this will continue, because learning is something that lasts forever.
 - 💞️ I’m looking to collaborate on companies that really trust and respect me through the projects I've done. 
       Plus, they'll see my talent that exists after the projects I have posted on GitHub until now.
-- 📫 How to reach me: Contact me through email ----> trongvan14082002@gmail.com
+- 📫 How to reach me: Contact me through email ----> kevinvanbusiness1408@gmail.com
 
 <!---
 KevinVan1408/KevinVan1408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
